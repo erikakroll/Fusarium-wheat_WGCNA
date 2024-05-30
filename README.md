@@ -15,3 +15,11 @@ The function multiSetMEs from the WGCNA package (Langfelder et al., 2007) was us
 
 **Gene_module_assignments**
 List of gene module assignments for all _F graminearum_ genes (ID - RRES v5) and all wheat (_Triticum aestivum_) genes (IDs = IWGSC Refseq v2.1 and v1.1 provided) in all modules. 
+
+Langfelder P, Horvath S. 2008. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics 9:559. doi:10.1186/1471-2105-9-559
+
+RNA-seq data from 
+
+Dilks T, Halsey K, De Vos RP, Hammond-Kosack KE, Brown NA. 2019. Non-canonical fungal G-protein coupled receptors promote Fusarium head blight on wheat. PLoS Pathog 15:e1007666. doi:10.1371/journal.ppat.1007666
+
+available on European Nucleotide Archive: PRJEB75530
