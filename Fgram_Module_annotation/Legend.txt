@@ -1,0 +1,17 @@
+
+Column
+
+A = Gene ID from Fusarium graminearum RRES v5 genome 
+B = Module from co-expression network where gene resides in
+C = Module membership calculation for gene 
+D = Module membership calculation p value
+E = InterPro annotation ID
+F = InterPro annotation description
+G = Gene Ontology ID
+H = Gene Ontology term description
+I - N = mean FPKM across samples
+
+	SP = spikelet
+	R = Rachis Internode
+	d = days post inoculation
+
