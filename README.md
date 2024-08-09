@@ -13,7 +13,7 @@ InterPro annotation, Plant Trait Ontology (TO) and Gene Ontology annotation acro
 **Module_Eigengene** 
 The function multiSetMEs from the WGCNA package (Langfelder et al., 2007) was used to calculate module eigengene expression. 
 
-**Network_Analysis**
+**Network_Construction**
 Provides codes and input raw count data for generation of WGCNA networks for F. graminearum and wheat using the WGCNA package (Langfelder et al., 2007). This includes the normalisation of counts. 
 
 **VST_normalised_counts**
