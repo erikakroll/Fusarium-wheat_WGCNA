@@ -1,3 +1,6 @@
+![Alt text](https://github.com/erikakroll/Fusarium-wheat_WGCNA/blob/master/147800_1_figure_3142293_sjll3q.tif)
+
+
 **Output from dual RNA-seq Weighted Gene Co-expression Network Analysis (WGCNA) studying stage specific expression of Fusarium graminearum infection of wheat**
 
 **Fgram_Module_annotation** 
