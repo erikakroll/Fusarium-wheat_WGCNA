@@ -25,6 +25,9 @@ CSV files containing VST normalised count data used as input for susquent WGCN a
 **Gene_module_assignments**
 List of gene module assignments for all _F graminearum_ genes (ID - RRES v5) and all wheat (_Triticum aestivum_) genes (IDs = IWGSC Refseq v2.1 and v1.1 provided) in all modules. 
 
+**YPD_vs_in_planta_sig_DE**
+List of Differentially Expressed (DE) genes from contrasts between PH-1 axenic culture in Yeast Peptone Dextrose (YPD) broth and in planta conditions used in network. 
+
 Langfelder P, Horvath S. 2008. WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics 9:559. doi:10.1186/1471-2105-9-559
 
 RNA-seq data from 
